@@ -102,7 +102,7 @@ Divvy-Bike-EDA
 
 1. Clone the repository  
 ```bash
-https://github.com/Gargeya15/Divvy-Bike-Share-EDA/new/main?readme=1
+https://github.com/Gargeya15/Divvy-Bike-Share-EDA/tree/main
 Install dependencies
 pip install pandas numpy matplotlib seaborn
 Run Jupyter Notebook
